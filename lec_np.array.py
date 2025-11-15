@@ -1,4 +1,4 @@
-import numpy as np
+import lec_numpy as np
 
 a = [1, 2, 4]
 
