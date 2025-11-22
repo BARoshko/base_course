@@ -16,7 +16,6 @@ while t in range(0,5):
     b = [x,round(y,1),t]
     #print(b)
     a.append(b)
-
 print(a)
 
 v=5
